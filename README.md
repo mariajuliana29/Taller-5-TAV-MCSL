@@ -26,3 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Proyecto realizado por MCSL
 
 Maria Juliana Martinez Herazo- Lic. informatica
+Sebastian De Jesus Burgos Barrera- Lic. informatica
