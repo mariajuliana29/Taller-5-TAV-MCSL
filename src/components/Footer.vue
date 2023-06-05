@@ -5,7 +5,7 @@
         <div class="container"> 
           <div class="row">
             <div class="col-md-4">
-              <h4>Información de Contacto</h4>
+              <h4>Información de contacto</h4>
               <ul class="list-unstyled">
                 <li><i class="bi bi-geo-alt-fill me-2"></i> Dirección de la Empresa</li>
                 <li><i class="bi bi-telephone-fill me-2"></i> (123) 456-7890</li>
