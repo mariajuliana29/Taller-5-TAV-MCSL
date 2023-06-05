@@ -28,3 +28,4 @@ Proyecto realizado por MCSL
 Maria Juliana Martinez Herazo- Lic. informatica --
 Sebastian De Jesus Burgos Barrera- Lic. informatica --
 Camila Andrea Rivera Torres- Lic. informatica --
+Leandro Dario Gaviria Angulo --
