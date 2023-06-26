@@ -1,21 +1,19 @@
-
 <template>
-  <Layout>
-
-  </Layout>
+  <div id="app">
+    <router-view></router-view>
+  </div>
 </template>
 
- 
- <script>
- import Layout from './components/Layout.vue';
- export default {
+<script>
+export default {
   name: 'App',
-  components: {
-    Layout,
-  },
 };
+</script>
 
- </script>
+<style>
+/* Aquí puedes agregar tus estilos */
+</style>
+
 
 
 
