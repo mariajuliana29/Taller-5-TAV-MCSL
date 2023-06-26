@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin-bottom: 60px; /* altura del footer */
+    background-image: url('./bg-home.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    margin-top: auto;
+    bottom: 0;
+    width: 100%;
+    /* height: 60px; altura deseada del footer */
+  }
+  
+  
