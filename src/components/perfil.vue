@@ -25,7 +25,8 @@
                 <label for="customRange1" class="form-label">JavaScript</label>
                 <input type="range" class="form-range" id="customRange1">
                 </div>
-                <a class="btn btn-success" href="/cursos" role="button">Link</a>
+                <p>¿Tienes alguna pregunta?¡Te invitamos a participar en nuestro foro!</p>
+                <a class="btn btn-success" href="/foro" role="button">Ir a foro</a>
             </div>
             
             <div class="social-media">
@@ -117,6 +118,7 @@ textarea {
     background: linear-gradient(135deg, transparent 20%, #56bf1954);
     position: absolute
 }
+
 
 .circle.one {
     width: 130px;

@@ -24,9 +24,9 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Actividades</a>
               <ul class="dropdown-menu">
-                <li><router-link class="dropdown-item" to="/opcion1">Opcion 1</router-link></li> 
-                <li><router-link class="dropdown-item" to="/opcion2">Opcion 2</router-link></li>
-                <li><router-link class="dropdown-item" to="/opcion3">Opcion 3</router-link></li>
+                <li><router-link class="dropdown-item" to="/HTML">HTML</router-link></li> 
+                <li><router-link class="dropdown-item" to="/CSS">CSS</router-link></li>
+                <li><router-link class="dropdown-item" to="/JS">JS</router-link></li>
               </ul>
             </li><br>
             <li><router-link class="nav-link"  to="/perfil">   Mi Perfil   </router-link></li>
